@@ -1,6 +1,22 @@
 # IOT_lights_temperature_humidity
 
 
+## code
+### React Native
+
+#### Macbook
+
+pod version
+```
+1.12.1
+```
+
+### Datebase
+
+```
+firebase realtime
+```
+
 ## images app
 
 <img src="Screenshots/1.png" width="300">
