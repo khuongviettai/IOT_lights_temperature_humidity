@@ -3,4 +3,4 @@
 
 ## images app
 
-![https://github.com/khuongviettai/IOT_lights_temperature_humidity/blob/main/Screenshots/1.png]
+<img src="Screenshots/1.png" width="100">
